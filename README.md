@@ -1,4 +1,5 @@
 # String Calculator React App
+# Hosted URL: https://string-calculator-karthik.netlify.app/
 
 ## Description
 
