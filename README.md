@@ -14,8 +14,8 @@ This React application provides a simple string calculator that allows users to 
 1.  **Clone the repository:**
 
     ```
-    git clone <repository-url>
-    cd react-typescript
+    git clone https://github.com/sai-karthik-p/string-calculator-tdd.git
+    cd string-calculator-tdd
     ```
 
 2.  **Install dependencies:**
